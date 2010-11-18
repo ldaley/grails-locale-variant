@@ -91,15 +91,15 @@ In our `grails-app/i18n` directory we have the following files:
 
     welcomemessage=this is the default welcome message for Australians
 
-##### messages\_en\_\_100_.properties
+##### messages\_en\_\_100.properties
 
     welcomemessage=this is the welcome message for user 100
 
-##### messages\_en\_AU\_100_.properties
+##### messages\_en\_AU\_100.properties
 
     welcomemessage=this is the welcome message for user 100 in Australia
 
-##### messages\_en\_\_200_.properties
+##### messages\_en\_\_200.properties
 
     welcomemessage=Hello user 200!
 
